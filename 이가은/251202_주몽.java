@@ -1,8 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -12,27 +11,31 @@ public class Main {
 		
 		int n = Integer.parseInt(bf.readLine());
 		int m = Integer.parseInt(bf.readLine());
-		List<Integer> list = new ArrayList<>();
+		int[] arr = new int[n];
 		int answer = 0;
+		int start = 0;
+		int end = n - 1;
 		
 		StringTokenizer st = new StringTokenizer(bf.readLine());
 		
 		for (int i = 0; i < n; i++) {
-			int k = Integer.parseInt(st.nextToken());
-			if (k < m) list.add(k);
+			arr[i] = Integer.parseInt(st.nextToken());
 		}
 		
-		int[] arr = list.stream().mapToInt(i->i).toArray();
-		int size = arr.length;
+		Arrays.sort(arr);
 		
-		for (int i = 0; i < size; i++) {
-			
-			for (int j = i + 1; j < size; j++) {
-				if (p + arr[j] == m) answer++;
+		while (start < end) {
+			if (arr[start] + arr[end] == m) {
+				start++;
+				end--;
+				answer++;
+			} else if (arr[start] + arr[end] > m) {
+				end--;
+			} else {
+				start++;
 			}
 		}
 		
 		System.out.println(answer);
 	}
-
 }
