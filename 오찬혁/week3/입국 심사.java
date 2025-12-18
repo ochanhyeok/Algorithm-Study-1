@@ -26,13 +26,14 @@ public class 입국심사 {
             }
         }
 
+        // 실제 답이 몇인지 모르니까 가능한 모든 시간을 커버하는 구간을 설정
         long left = 0;
-        long right = maxTime * M;
+        long right = maxTime * M; // 최악일 때 모든 사람이 가장 오래걸리는 심사대에 배치
         long answer = right;
 
         while (left <= right) {
-            long mid = (left + right) / 2;
-            long cnt = 0;
+            long mid = (left + right) / 2; // 후보 시간
+            long cnt = 0; // 처리 가능한 총 인원
 
             for (int i = 0; i < N; i++) {
                 cnt += mid / times[i];
@@ -41,10 +42,10 @@ public class 입국심사 {
                 }
             }
 
-            if (cnt >= M) {
+            if (cnt >= M) { // 더 작은 시간들 탐색
                 answer = mid;
                 right = mid - 1;
-            } else {
+            } else { // 더 큰 시간들 탐색
                 left = mid + 1;
             }
         }
