@@ -92,7 +92,13 @@
 |       |       |                             | [N과 M(3)](https://www.acmicpc.net/problem/15651)                                       | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |       |       | 13. DFS & BFS               | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)                               | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |       |       |                             | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-|       | 12/18 | 14. 이진 탐색               | [기타 레슨](https://www.acmicpc.net/problem/2343)                                       | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [입국 심사](https://www.acmicpc.net/problem/3079)                                       | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 15. 다익스트라              | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)                          | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [최소 비용 구하기](https://www.acmicpc.net/problem/1916)                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       | 12/18 | 14. 이진 탐색               | [기타 레슨](https://www.acmicpc.net/problem/2343)                                       | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [입국 심사](https://www.acmicpc.net/problem/3079)                                       | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 15. 다익스트라              | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)                          | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [최소 비용 구하기](https://www.acmicpc.net/problem/1916)                                | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+| 4주차 | 12/22 | 01. 배열                    | [구간 합 4](https://www.acmicpc.net/problem/11659)                                      | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [좋다](https://www.acmicpc.net/problem/1253)                                            | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       | 02. 문자열                  | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)            | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)         | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       | 03. 리스트 & Hash           | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)           | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)     | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
