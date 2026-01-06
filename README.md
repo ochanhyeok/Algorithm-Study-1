@@ -111,13 +111,17 @@
 |       |       | 19. 백트래킹                | [N-Queen](https://www.acmicpc.net/problem/9663)                                                | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |       |       | 04. 스택                    | [제로](https://www.acmicpc.net/problem/10773)                                                  | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |       |       |                             | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-| 6주차 | 1/5   | 05. 큐                      | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                   | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)                     | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 06. 재귀                    | [팩토리얼2](http://acmicpc.net/problem/27433)                                                  | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [피보나치 수5](http://acmicpc.net/problem/10870)                                               | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 07. 정렬                    | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 08. 완전 탐색               | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                    | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                        | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 09. 그리디                  | [동전 0](https://www.acmicpc.net/problem/11047)                                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)                                          | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+| 6주차 | 1/5   | 05. 큐                      | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)                     | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 06. 재귀                    | [팩토리얼2](http://acmicpc.net/problem/27433)                                                  | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [피보나치 수5](http://acmicpc.net/problem/10870)                                               | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 07. 정렬                    | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 08. 완전 탐색               | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                    | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                        | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 09. 그리디                  | [동전 0](https://www.acmicpc.net/problem/11047)                                                | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)                                          | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       | 1/8   | 10. 소수                    | [소수](https://www.acmicpc.net/problem/2581)                                                   | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [암호제작](https://www.acmicpc.net/problem/1837)                                               | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       | 11. 최소공배수              | [최소 공배수](https://www.acmicpc.net/problem/1934)                                            | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
