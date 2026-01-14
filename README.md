@@ -121,7 +121,16 @@
 |       |       |                             | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                        | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |       |       | 09. 그리디                  | [동전 0](https://www.acmicpc.net/problem/11047)                                                | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |       |       |                             | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)                                          | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-|       | 1/8   | 10. 소수                    | [소수](https://www.acmicpc.net/problem/2581)                                                   | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [암호제작](https://www.acmicpc.net/problem/1837)                                               | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 11. 최소공배수              | [최소 공배수](https://www.acmicpc.net/problem/1934)                                            | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       | 1/8   | 10. 소수                    | [암호제작](https://www.acmicpc.net/problem/1837)                                               | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 11. 최소공배수              | [최소 공배수](https://www.acmicpc.net/problem/1934)                                            | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)                                | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       | 1/15  | 12. 조합과 순열             | [N과 M(2)](https://www.acmicpc.net/problem/15650)                                              | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [N과 M(4)](https://www.acmicpc.net/problem/15652)                                              | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       | 13. DFS와 BFS               | [ABCDE](https://www.acmicpc.net/problem/13023)                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)            | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       | 14. 이진 탐색               | [수 찾기](https://www.acmicpc.net/problem/1920)                                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                   | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       | 15. 다익스트라              | [최단 경로](https://www.acmicpc.net/problem/1753)                                              | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)                        | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       | 16. 최소 신장 트리          | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)                                       | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [네트워크 연결](https://www.acmicpc.net/problem/1922)                                          | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
