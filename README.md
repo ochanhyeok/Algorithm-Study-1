@@ -136,5 +136,5 @@
 |       |       |                             | [네트워크 연결](https://www.acmicpc.net/problem/1922)                                          | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 | 8주차 | 1/19  | 17. 트리                    | [트리](https://www.acmicpc.net/problem/1068)                                                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |       |       | 18. 동적 계획법             | [1,2,3 더하기](https://www.acmicpc.net/problem/9095)                                           | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-| 9주차 | 1/22  | 19. 백트래킹                | [N-Queen](https://www.acmicpc.net/problem/9663)                                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 모의고사             | [외톨이 알파벳](https://school.programmers.co.kr/learn/courses/15008/lessons/121683)           | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       | 1/22  | 19. 백트래킹                | [N-Queen](https://www.acmicpc.net/problem/9663)                                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       | 모의고사                    | [외톨이 알파벳](https://school.programmers.co.kr/learn/courses/15008/lessons/121683)           | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
