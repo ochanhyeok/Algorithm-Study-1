@@ -140,5 +140,7 @@
 |        |       | 모의고사                    | [외톨이 알파벳](https://school.programmers.co.kr/learn/courses/15008/lessons/121683)           | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 | 9주차  | 2/6   | 이진 탐색                   | [게임](https://www.acmicpc.net/problem/1072)                                                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       | 모의고사                    | [실습용 로봇](https://school.programmers.co.kr/learn/courses/15009/lessons/121687)             | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-| 10주차 | 2/9   | 이진 탐색                   | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)                    | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       | 모의고사                    | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+| 10주차 | 2/9   | 이진 탐색                   | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)                    | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       | 모의고사                    | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        | 2/12  | 이진 탐색                   | [공유기 설치](https://www.acmicpc.net/problem/2110)                                            | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       | 모의고사                    | [신입사원 교육](https://school.programmers.co.kr/learn/courses/15009/lessons/121688)           | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
