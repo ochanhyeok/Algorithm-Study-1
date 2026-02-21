@@ -144,8 +144,11 @@
 |        |       | 모의고사                    | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        | 2/12  | 이진 탐색                   | [공유기 설치](https://www.acmicpc.net/problem/2110)                                            | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       | 모의고사                    | [신입사원 교육](https://school.programmers.co.kr/learn/courses/15009/lessons/121688)           | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-| 11주차 | 2/19  |                             | [에디터](https://www.acmicpc.net/problem/1406)                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [나무 자르기](https://www.acmicpc.net/problem/2805)                                            | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [영화감독 숌 2](https://www.acmicpc.net/problem/27438)                                         | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                  | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                     | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+| 11주차 | 2/19  |                             | [에디터](https://www.acmicpc.net/problem/1406)                                                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [나무 자르기](https://www.acmicpc.net/problem/2805)                                            | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [영화감독 숌 2](https://www.acmicpc.net/problem/27438)                                         | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                  | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                     | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+| 12주차 | 2/23  |                             | [두 수의 합](https://www.acmicpc.net/problem/3273)                                             | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                   | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                   | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
