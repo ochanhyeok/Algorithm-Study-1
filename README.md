@@ -149,6 +149,9 @@
 |        |       |                             | [영화감독 숌 2](https://www.acmicpc.net/problem/27438)                                         | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                  | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                     | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-| 12주차 | 2/23  |                             | [두 수의 합](https://www.acmicpc.net/problem/3273)                                             | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                   | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                   | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+| 12주차 | 2/23  |                             | [두 수의 합](https://www.acmicpc.net/problem/3273)                                             | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        | 2/26  |                             | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [알파벳](https://www.acmicpc.net/problem/1987)                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
