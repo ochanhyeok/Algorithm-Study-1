@@ -152,6 +152,11 @@
 | 12주차 | 2/23  |                             | [두 수의 합](https://www.acmicpc.net/problem/3273)                                             | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-|        | 2/26  |                             | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [알파벳](https://www.acmicpc.net/problem/1987)                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        | 2/26  |                             | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [알파벳](https://www.acmicpc.net/problem/1987)                                                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+| 13주차 | 3/3   |                             | 프로그래밍1 : 몫 = 나머지                                                                      | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | 프로그래밍2 : 식 조작                                                                          | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | 주식 구매                                                                                      | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | SQL1:버그에 영향을 받은 레코드                                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | SQL2: 지점별 월급을 가장 많이 받는 사람                                                        | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
