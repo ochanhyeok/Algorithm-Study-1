@@ -39,7 +39,7 @@ public class Main {
         			fd = j;
         			
         			for(int a = i + 1; a < price.length; a++) {
-        				if(a == fd) {
+        				if(a == fd && price[i][1] > price[a][1]) {
         					continue;
         				}
         				int secondbuy = price[a][0];
