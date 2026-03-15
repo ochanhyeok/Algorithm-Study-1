@@ -163,5 +163,8 @@
 |        | 3/5   |                             | 프로그래밍3: 여러 디스크에 저장된 데이터                                                       | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | 프로그래밍1: 스팸 경고 출력                                                                    | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | SQL1: 5만원 이상 결제한 내역                                                                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-| 14주차 | 3/12  |                             | [숫자 야구](https://www.acmicpc.net/problem/2503)                                              | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)                    | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+| 14주차 | 3/12  |                             | [숫자 야구](https://www.acmicpc.net/problem/2503)                                              | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)                    | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+| 15주차 | 3/16  |                             | [미친 로봇](https://www.acmicpc.net/problem/1405)                                              | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [블랙잭](https://www.acmicpc.net/problem/2798)                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [두 동전](https://www.acmicpc.net/problem/16197)                                               | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
