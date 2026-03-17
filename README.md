@@ -165,6 +165,8 @@
 |        |       |                             | SQL1: 5만원 이상 결제한 내역                                                                   | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 | 14주차 | 3/12  |                             | [숫자 야구](https://www.acmicpc.net/problem/2503)                                              | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)                    | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-| 15주차 | 3/16  |                             | [미친 로봇](https://www.acmicpc.net/problem/1405)                                              | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [블랙잭](https://www.acmicpc.net/problem/2798)                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [두 동전](https://www.acmicpc.net/problem/16197)                                               | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+| 15주차 | 3/16  |                             | [미친 로봇](https://www.acmicpc.net/problem/1405)                                              | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [블랙잭](https://www.acmicpc.net/problem/2798)                                                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [두 동전](https://www.acmicpc.net/problem/16197)                                               | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        | 3/19  |                             | 최소 발전량                                                                                    | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [연구소](https://www.acmicpc.net/problem/1450)                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
