@@ -169,4 +169,4 @@
 |        |       |                             | [블랙잭](https://www.acmicpc.net/problem/2798)                                                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [두 동전](https://www.acmicpc.net/problem/16197)                                               | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        | 3/19  |                             | 최소 발전량                                                                                    | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [연구소](https://www.acmicpc.net/problem/1450)                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [연구소](https://www.acmicpc.net/problem/14502)                                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
