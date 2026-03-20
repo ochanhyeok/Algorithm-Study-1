@@ -168,5 +168,8 @@
 | 15주차 | 3/16  |                             | [미친 로봇](https://www.acmicpc.net/problem/1405)                                              | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [블랙잭](https://www.acmicpc.net/problem/2798)                                                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [두 동전](https://www.acmicpc.net/problem/16197)                                               | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-|        | 3/19  |                             | 최소 발전량                                                                                    | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [연구소](https://www.acmicpc.net/problem/14502)                                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        | 3/19  |                             | 최소 발전량                                                                                    | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [연구소](https://www.acmicpc.net/problem/14502)                                                | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+| 16주차 | 3/23  |                             | 주식 차트의 상봉과 하봉                                                                        | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)                       | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [아기 상어](https://www.acmicpc.net/problem/16236)                                             | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
