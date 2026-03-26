@@ -1,0 +1,24 @@
+import java.io.*;
+
+public class Main{
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
+        int n = Integer.parseInt(br.readLine());
+        
+        String pattern = br.readLine();
+        
+        String[] patterns = pattern.split("\\*");
+        
+        for(int i = 0; i < n; i++) {
+            String file = br.readLine();
+            
+            if(file.length() >= patterns[0].length() + patterns[1].length() && file.startsWith(patterns[0]) && file.endsWith(patterns[1])) {
+                System.out.println("DA");
+            } else{
+                System.out.println("NE");
+            }
+            
+        }
+        
+    }
+}
