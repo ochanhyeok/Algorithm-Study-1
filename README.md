@@ -173,5 +173,7 @@
 | 16주차 | 3/26  |                             | 주식 차트의 상봉과 하봉                                                                        | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)                       | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [아기 상어](https://www.acmicpc.net/problem/16236)                                             | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-| 17주차 | 3/30  |                             | [치킨 배달](https://www.acmicpc.net/problem/15686)                                             | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [토마토](https://www.acmicpc.net/problem/7569)                                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+| 17주차 | 3/30  |                             | [치킨 배달](https://www.acmicpc.net/problem/15686)                                             | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [토마토](https://www.acmicpc.net/problem/7569)                                                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        | 4/2   |                             | 미음 모양 판별하기                                                                             | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [안전 영역](https://www.acmicpc.net/problem/2468)                                              | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
